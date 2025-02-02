@@ -1,0 +1,4 @@
+[project]
+name = "python_mvp"
+version = "0.1.0"
+dependencies = []
