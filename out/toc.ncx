@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="fa1450a6-f4f9-4d43-a930-ee8d4adcc108"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.26.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Focus: The ASML way - Inside the power struggle over the most complex machine on earth</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>About the book</text>
+      </navLabel>
+      <content src="text/part0000_split_001.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>About the author</text>
+      </navLabel>
+      <content src="text/part0001_split_001.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Titlepage</text>
+      </navLabel>
+      <content src="text/part0002_split_000.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Prologue: A Starry Sky</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>PART I – GOOD IDEA, BAD PLAN</text>
+      </navLabel>
+      <content src="text/part0007_split_001.html"/>
+      <navPoint id="num_8" playOrder="8" class="chapter">
+        <navLabel>
+          <text>1 - The Repeater</text>
+        </navLabel>
+        <content src="text/part0009_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>2 - The Go-Getter</text>
+        </navLabel>
+        <content src="text/part0010_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10" class="chapter">
+        <navLabel>
+          <text>3 - The High-Flyer</text>
+        </navLabel>
+        <content src="text/part0011_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>4 - The Leaky Hat</text>
+        </navLabel>
+        <content src="text/part0012_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12" class="chapter">
+        <navLabel>
+          <text>5 - The Mega Legacy</text>
+        </navLabel>
+        <content src="text/part0013_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13" class="chapter">
+        <navLabel>
+          <text>6 - The 4022 Network</text>
+        </navLabel>
+        <content src="text/part0014_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14" class="chapter">
+        <navLabel>
+          <text>7 - The Spouse from the South</text>
+        </navLabel>
+        <content src="text/part0015_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15" class="chapter">
+      <navLabel>
+        <text>PART II – THE BIG BOYS</text>
+      </navLabel>
+      <content src="text/part0016_split_001.html"/>
+      <navPoint id="num_16" playOrder="16" class="chapter">
+        <navLabel>
+          <text>8 - Moving the Mountain</text>
+        </navLabel>
+        <content src="text/part0018_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>9 - The Money Printer</text>
+        </navLabel>
+        <content src="text/part0019_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18" class="chapter">
+        <navLabel>
+          <text>10 - The Quick Learner</text>
+        </navLabel>
+        <content src="text/part0020_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19" class="chapter">
+        <navLabel>
+          <text>11 - Doug’s Iron Fist</text>
+        </navLabel>
+        <content src="text/part0021_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20" class="chapter">
+        <navLabel>
+          <text>12 - The Compassion of George W. Bush</text>
+        </navLabel>
+        <content src="text/part0022_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21" class="chapter">
+        <navLabel>
+          <text>13 - The Two Cash Cows</text>
+        </navLabel>
+        <content src="text/part0023_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22" class="chapter">
+        <navLabel>
+          <text>14 - Japan’s Revenge</text>
+        </navLabel>
+        <content src="text/part0024_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23" class="chapter">
+        <navLabel>
+          <text>15 - The Wisdom of Zeiss</text>
+        </navLabel>
+        <content src="text/part0025_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24" class="chapter">
+        <navLabel>
+          <text>16 - A Living Organism</text>
+        </navLabel>
+        <content src="text/part0026_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25" class="chapter">
+        <navLabel>
+          <text>17 - A Legion of Nurses</text>
+        </navLabel>
+        <content src="text/part0027_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26" class="chapter">
+      <navLabel>
+        <text>PART III – BUILDING THE IMPOSSIBLE</text>
+      </navLabel>
+      <content src="text/part0028_split_001.html"/>
+      <navPoint id="num_27" playOrder="27" class="chapter">
+        <navLabel>
+          <text>18 - An Invisible Monopoly</text>
+        </navLabel>
+        <content src="text/part0030_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28" class="chapter">
+        <navLabel>
+          <text>19 - Never Trust the Droplet</text>
+        </navLabel>
+        <content src="text/part0031_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29" class="chapter">
+        <navLabel>
+          <text>20 - The Three Musketeers</text>
+        </navLabel>
+        <content src="text/part0032_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30" class="chapter">
+        <navLabel>
+          <text>21 - Joann’s Hands</text>
+        </navLabel>
+        <content src="text/part0033_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31" class="chapter">
+        <navLabel>
+          <text>22 - Yin and Yang</text>
+        </navLabel>
+        <content src="text/part0034_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32" class="chapter">
+        <navLabel>
+          <text>23 - They Won’t Go Home</text>
+        </navLabel>
+        <content src="text/part0035_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33" class="chapter">
+        <navLabel>
+          <text>24 - Mates with Morris</text>
+        </navLabel>
+        <content src="text/part0036_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34" class="chapter">
+        <navLabel>
+          <text>25 - The Camera That Never Existed</text>
+        </navLabel>
+        <content src="text/part0037_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35" class="chapter">
+        <navLabel>
+          <text>26 - A Golf Ball on the Moon</text>
+        </navLabel>
+        <content src="text/part0038_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36" class="chapter">
+        <navLabel>
+          <text>27 - A Touch of Voodoo</text>
+        </navLabel>
+        <content src="text/part0039_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37" class="chapter">
+      <navLabel>
+        <text>PART IV – IN THE SPOTLIGHT</text>
+      </navLabel>
+      <content src="text/part0040_split_001.html"/>
+      <navPoint id="num_38" playOrder="38" class="chapter">
+        <navLabel>
+          <text>28 - Shoot First, Aim Later</text>
+        </navLabel>
+        <content src="text/part0042_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39" class="chapter">
+        <navLabel>
+          <text>29 - The Spirit of the Merchant</text>
+        </navLabel>
+        <content src="text/part0043_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40" class="chapter">
+        <navLabel>
+          <text>30 - Death Grip in DC</text>
+        </navLabel>
+        <content src="text/part0044_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41" class="chapter">
+        <navLabel>
+          <text>31 - Codename Missing</text>
+        </navLabel>
+        <content src="text/part0045_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42" class="chapter">
+        <navLabel>
+          <text>32 - It’s Raining Billions</text>
+        </navLabel>
+        <content src="text/part0046_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43" class="chapter">
+        <navLabel>
+          <text>33 - Panic at the Pentagon</text>
+        </navLabel>
+        <content src="text/part0047_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44" class="chapter">
+      <navLabel>
+        <text>PART V – GROWING PAINS</text>
+      </navLabel>
+      <content src="text/part0048_split_001.html"/>
+      <navPoint id="num_45" playOrder="45" class="chapter">
+        <navLabel>
+          <text>34 - All in the Family</text>
+        </navLabel>
+        <content src="text/part0050_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46" class="chapter">
+        <navLabel>
+          <text>35 - Welcome to Five-Hell</text>
+        </navLabel>
+        <content src="text/part0051_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47" class="chapter">
+        <navLabel>
+          <text>36 - Read the Fine Print First</text>
+        </navLabel>
+        <content src="text/part0052_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48" class="chapter">
+        <navLabel>
+          <text>37 - Not in my Backyard</text>
+        </navLabel>
+        <content src="text/part0053_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49" class="chapter">
+        <navLabel>
+          <text>38 - A Piece of the Puzzle</text>
+        </navLabel>
+        <content src="text/part0054_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50" class="chapter">
+        <navLabel>
+          <text>39 - Martin’s Law</text>
+        </navLabel>
+        <content src="text/part0055_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51" class="chapter">
+        <navLabel>
+          <text>40 - Avoid the Right Side</text>
+        </navLabel>
+        <content src="text/part0056_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52" class="chapter">
+      <navLabel>
+        <text>Epilogue: The ASML Way</text>
+      </navLabel>
+      <content src="text/part0057.html"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53" class="chapter">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="text/part0059.html"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54" class="chapter">
+      <navLabel>
+        <text>Photos</text>
+      </navLabel>
+      <content src="text/part0060.html"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55" class="chapter">
+      <navLabel>
+        <text>Meer lezen van Balans?</text>
+      </navLabel>
+      <content src="text/part0095.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

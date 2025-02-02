@@ -1,0 +1,488 @@
+._idgenobjectattribute {
+  display: block;
+  float: right;
+  height: auto;
+  text-align: left;
+  vertical-align: text-top;
+  width: auto;
+  margin: 0;
+  padding: 0 0 0.9em 0.6em;
+}
+._idgenobjectattribute1 {
+  height: auto;
+  width: auto;
+}
+._idgenobjectattribute2 {
+  height: auto;
+  padding-right: 0.1em;
+  text-align: left;
+  width: auto;
+  margin: 0.6em 0 0;
+}
+._idgenobjectattribute3 {
+  display: block;
+  float: right;
+  height: auto;
+  width: 42%;
+  margin: 0;
+  padding: 0 0 0.9em 0.6em;
+}
+._idgenobjectlayout {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0;
+}
+.calibre {
+  -epub-hyphens: none;
+  -webkit-hyphens: none;
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  orphans: 2;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: left;
+  widows: 2;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre2 {
+  display: block;
+}
+.calibre3 {
+  color: blue;
+  text-decoration: underline;
+}
+.calibre4 {
+  color: blue;
+  line-height: 1.2;
+  text-decoration: underline;
+}
+.calibre5 {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0;
+}
+.ff-bijschrift {
+  display: block;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.15em;
+  text-align: left;
+  margin: 0.4em 0 1.5em;
+}
+.ff-blokmetwit {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 1em 2rem 0 1.5rem;
+}
+.ff-bovenkop {
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 10% 0 0.5em 10%;
+}
+.ff-deel {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 2em;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  line-height: 1.2em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 0 0 10% 10%;
+}
+.ff-kop {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.66667em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 0 0 10% 10%;
+}
+.ff-kopklein {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 1.2em 0 0.2em;
+}
+.ff-kopx {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.66667em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.6em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 10% 0 10% 10%;
+}
+.ff-plat {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  text-indent: 1.5rem;
+  margin: 0;
+}
+.ff-platmetwit {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 1em 0 0;
+}
+.ff-platmetwit1 {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0.1em 0 0;
+}
+.ff-tussenkop {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 1.2em 0 0.2em;
+}
+.ffo-cluster {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 0.8em 0 0;
+}
+.ffo-fotocentreer {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: center;
+  margin: 0;
+}
+.ffo-fotolinks {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 1em 0 0;
+}
+.ffo-inlinerechts {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0;
+}
+.ffo-intern {
+  display: none;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0;
+}
+.ffo-newfotopage {
+  page-break-inside: avoid;
+}
+.fft-cursief {
+  font-style: italic;
+  font-weight: normal;
+}
+.fft-kk {
+  font-size: 0.83333em;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.fft-kk1 {
+  font-size: 0.9em;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.fft-kkcurs {
+  font-size: 0.83333em;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.fft-kleiner {
+  font-size: 1em;
+}
+.fft-kleiner1 {
+  font-size: 0.775em;
+}
+.fft-romein {
+  font-style: normal;
+  font-weight: normal;
+}
+.fft-subscript {
+  font-size: 0.83333em;
+  line-height: 1.2;
+  vertical-align: -20%;
+}
+.fft-superscript {
+  font-size: 0.83333em;
+  line-height: 1.2;
+  vertical-align: 35%;
+}
+.fft-verdwijn {
+  display: none;
+}
+.fft-vet {
+  font-style: normal;
+  font-weight: bold;
+}
+.fft-vet1 {
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.fft-vetcursief {
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.schreefloos_slt-kkvet {
+  font-size: 0.64516em;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.schreefloos_slt-romein {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.schreefloos_slt-romein1 {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+}
+.schreefloos_slt-vet {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.splitinvistoc {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  visibility: hidden;
+  margin: 0;
+}
+.splitvistoc {
+  break-after: avoid;
+  break-inside: avoid;
+  color: #706F6F;
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 0 0 10%;
+}
+.voorwerk_ffvw-auteur {
+  display: block;
+  font-size: 1.66667em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 1rem;
+}
+.voorwerk_ffvw-colofon {
+  display: block;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.5em;
+  text-align: left;
+  margin: 0 2rem 0 0;
+}
+.voorwerk_ffvw-ondertitel {
+  display: block;
+  font-size: 1.29167em;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 0.5rem;
+}
+.voorwerk_ffvw-titel {
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 2em;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.04em;
+  line-height: 1em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 0 0 1rem;
+}
+.voorwerk_ffvw-uitgever {
+  display: block;
+  font-size: 0.83333em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.3em;
+  text-align: center;
+  margin: 20% 0 0;
+}
+.voorwerk_ffvw-vermelding {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  text-align: left;
+  margin: 0 2rem 8% 0;
+}
+.voorwerk_toc_toclevela {
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1.5rem 0 1rem;
+}
+.voorwerk_toc_toclevelb {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0.6rem 0 0.5rem;
+}
+.voorwerk_toc_toclevelb1 {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0rem 0 0.5rem;
+}
+.voorwerk_toc_toclevelc {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1.6rem 0 0.5rem;
+}
+.xtra_ff-koppromo {
+  display: block;
+  font-size: 1.29167em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.3em;
+  page-break-inside: avoid;
+  text-align: left;
+  margin: 0.2em 0 0.4em;
+}
+.xtra_ff-kopverdwijn {
+  display: block;
+  font-size: 0.625em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  visibility: hidden;
+  margin: 0;
+}
+.xtra_ff-nosplitsxtra {
+  display: block;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.55em;
+  padding-top: 10%;
+  text-align: left;
+  margin: 0;
+}
+.xtra_socialmedia {
+  font-size: 1em;
+  line-height: 1.2em;
+  vertical-align: 25%;
+}
